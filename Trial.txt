@@ -1,4 +1,4 @@
 Trial.txt
-Trial filefor checking Github
+Trial file for checking Github
 
 File setup
